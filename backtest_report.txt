@@ -1,0 +1,34 @@
+==================================================
+BACKTEST RESULTS
+==================================================
+Start                     2015-11-06 14:00:00
+End                       2025-11-03 13:00:00
+Duration                   3649 days 23:00:00
+Exposure Time [%]                   99.901657
+Equity Final [$]                 165046.39357
+Equity Peak [$]                 184046.216662
+Return [%]                          65.046394
+Buy & Hold Return [%]                5.922342
+Return (Ann.) [%]                    4.935409
+Volatility (Ann.) [%]                7.893593
+Sharpe Ratio                         0.625242
+Sortino Ratio                        0.978642
+Calmar Ratio                         0.408546
+Max. Drawdown [%]                   -12.08042
+Avg. Drawdown [%]                   -0.517174
+Max. Drawdown Duration      691 days 14:00:00
+Avg. Drawdown Duration        8 days 04:00:00
+# Trades                                  354
+Win Rate [%]                        66.666667
+Best Trade [%]                       6.269427
+Worst Trade [%]                     -7.400392
+Avg. Trade [%]                       0.141642
+Max. Trade Duration         484 days 15:00:00
+Avg. Trade Duration          10 days 08:00:00
+Profit Factor                        2.103234
+Expectancy [%]                       0.146469
+SQN                                  2.701339
+_strategy                        LstmStrategy
+_equity_curve                             ...
+_trades                          Size  ......
+dtype: object
