@@ -1,12 +1,12 @@
 .gitignore
 # Model files (generated)
-lstm_model.pth
-scaler.pkl
+# lstm_model.pth
+# scaler.pkl
 
 # Reports (generated)
-backtest_report.html
-backtest_report.txt
-*.json
+# backtest_report.html
+# backtest_report.txt
+# *.json
 
 # Logs
 trading_log.txt
